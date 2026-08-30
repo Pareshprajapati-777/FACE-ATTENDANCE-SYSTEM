@@ -20,7 +20,7 @@ Data is stored locally in a SQLite file (`attendance.db`) created next to
 `app.py` the first time you run the app. No cloud service is used.
 
 ## Setup
-
+-
 **1. Install Python 3.9–3.11** (dlib, a dependency of `face_recognition`,
 does not yet have prebuilt wheels for the very latest Python versions on
 every OS).
