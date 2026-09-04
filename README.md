@@ -72,7 +72,7 @@ face_attendance_system/
 ```
 
 ## Extending it further
-
+...
 - Add student photo removal / re-registration.
 - Add an "Edit attendance" page to manually override a status.
 - Swap SQLite for PostgreSQL if multiple people need to use it at once.
