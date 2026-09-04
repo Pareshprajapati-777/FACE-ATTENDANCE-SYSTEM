@@ -159,7 +159,7 @@ with st.sidebar:
     )
     
     st.divider()
-    st.markdown("### 🎨 Demo Look Styles")
+    st.markdown("### 🎨 Look Styles")
     current_preset = st.session_state.get("current_theme_name", "Style 1: Modern Indigo Light (Current)")
     selected_preset = st.selectbox(
         "Select Theme Style",
