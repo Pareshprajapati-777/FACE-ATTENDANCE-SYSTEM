@@ -123,7 +123,7 @@ Face encodings and attendance information are stored in the application's **SQLi
 
 ## 🌐 Live Demo
 
-🚀 **Streamlit App:** https://face-attendance-system-on.streamlit.app/
+🚀 **Try the live application:** https://face-attendance-system-on.streamlit.app/
 
 ## 🔮 Future Improvements
 
